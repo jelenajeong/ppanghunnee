@@ -1,2 +1,2 @@
 # ppanghunnee
-<img width="" height="" spc="./pics/peachy_school.jpg"></img>
+<img width="" height="" src="./pics/peachy_school.jpg"></img>
